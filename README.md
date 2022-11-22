@@ -4,5 +4,5 @@
 
 para roder esse programa na sua maquina , por favor , digite:
 ```
-NPM install reract 
+node app.js
 ```
